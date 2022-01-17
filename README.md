@@ -7,4 +7,4 @@ The functions are:
 - polybius() - takes in input and returns number pairs when encoded or message when decoded.
 - substitution() - takes in input and alphabet and returns encoded or ded messages according to instructions
 
-Project also has a working html/css portion. Feel free to check it out.
+Project also has a working html portion. Feel free to check it out.
