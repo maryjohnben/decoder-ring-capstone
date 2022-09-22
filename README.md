@@ -28,6 +28,6 @@ To run the HTML section after installation please follow these directions:
 
 - In VS Code open **terminal** window.
 
-- Type in *start index.html* and click **enter**. This should open up a window in the browser.
+- Type in *start index.html* and click **enter**. This should open up a window in the browser. (This works only if you are in the correct folder titled *decoder-ring-capstone-main*)
 
 - Alternatively if the *live server* extension is installed in VS code, just click on the tab that says *Go Live*. This will open the HTML section in the browser.
