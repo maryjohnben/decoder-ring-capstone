@@ -1,13 +1,13 @@
 # decoder-ring-capstone
 
-The project is designed to focus on the Vanilla JavaScript knowledge of the developer. Project is developed using complex JavaScript algorithms and the tests are done using Chai and Mocha.
+The project is designed to focus on the Vanilla JavaScript knowledge understanding of the developer. Project is developed using complex JavaScript algorithms and the tests are done using Chai and Mocha.
 
-Three functions are are the main focus here and each function does both encoding and decoding of the input.
+Three functions are mainly focused here and each function does both encoding and decoding of the input.
 
 
 The functions are:
 - caesar() - takes input and do a shift and is able to return either encoded or decoded messages according to instructions inputed.
-- polybius() - accepts input and return number pairs when used for encoding or return the original message when decoded.
+- polybius() - accepts input and return number pairs as secret codes when used for encoding or return the original secret message when decoded.
 - substitution() - takes in input and a set of alphabtes and return encoded or decoded messages according to instruction.
 
 
