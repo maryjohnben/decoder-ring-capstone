@@ -32,4 +32,4 @@ To run the HTML section after installation please follow these directions:
 
 - Alternatively if the *live server* extension is installed in VS code, just click on the tab that says *Go Live*. This will open the HTML section in the browser.
 
-Tech: JavaScript
+Tech: JavaScript, html, css, git
